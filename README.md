@@ -11,10 +11,10 @@ Il typescript è un superset del javascript.
 
 
 # Dove ne posso sapere di più?
-* [typescriptlang- Tutorial] (http://www.typescriptlang.org/docs/tutorial.html)
-* [typescript-book] (https://github.com/basarat/typescript-book)
-  * [gitbooks] (https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
-* [udemy free course] (https://www.udemy.com/typescript/)
+* [typescriptlang- Tutorial](http://www.typescriptlang.org/docs/tutorial.html)
+* [typescript-book](https://github.com/basarat/typescript-book)
+  * [gitbooks](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
+* [udemy free course](https://www.udemy.com/typescript/)
 
 # Cosa ci posso fare?
-* (https://codequs.com/search/?kwd=typescript)
+* [codequs exp](https://codequs.com/search/?kwd=typescript)
